@@ -49,9 +49,7 @@ _Please complete:_
 ### 🔍 **Troubleshooting**
 - [ ] I’ve tested this on the latest plugin version.  
 - [ ] I’ve reproduced this without other plugins.  
-- [ ] This bug affects the API:
-  - [ ] Yes
-  - [ ] No  
+- [ ] This bug affects the API
 
 **Additional context**  
 _Screenshots, plugin config snippets, or videos (optional)._
