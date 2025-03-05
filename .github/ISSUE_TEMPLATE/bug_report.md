@@ -1,38 +1,61 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: Bug Report
+about: Report a bug to help us improve
+title: "[BUG] [Brief Description]"
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### 🐛 **Bug Description**
+**What’s broken?**  
+_A clear summary of the issue. Example: "Players get kicked when [...]"._
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+---
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### 🎮 **Reproduction Steps**
+**How to trigger the bug**  
+1. Server command: `/example command`  
+2. Player action: "Do X with item Y..."  
+3. ...  
+4. See error  
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Expected behavior**  
+_What should happen under normal conditions? Example: "The GUI should open"._
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+---
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+### 📜 **Error Logs**
+_Paste error logs (use https://paste.gg/ or similar):_  
+```log
+[REPLACE WITH LOGS]
+```
 
-**Additional context**
-Add any other context about the problem here.
+---
+
+### 🖥️ **Server Environment**
+_Please complete:_  
+- PaperMC Version: `e.g., 1.20.1`  
+- Plugin Version: `e.g., 2.4.0`  
+- Java Version: `e.g., Java 17`  
+- Server Type:
+  - [ ] Paper
+  - [ ] Purpur
+  - [ ] Other: _____  
+- Other Plugins: `List plugins that might interfere`
+
+---
+
+### 🔍 **Troubleshooting**
+- [ ] I’ve tested this on the latest plugin version.  
+- [ ] I’ve reproduced this without other plugins.  
+- [ ] This bug affects the API:
+  - [ ] Yes
+  - [ ] No  
+
+**Additional context**  
+_Screenshots, plugin config snippets, or videos (optional)._
+
+---
+
+**Thank you for making Rahmenwerk stable!** 🔧
