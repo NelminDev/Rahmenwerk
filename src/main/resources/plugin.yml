@@ -1,0 +1,7 @@
+name: Rahmenwerk
+version: ${project.version}
+main: dev.nelmin.minecraft.Rahmenwerk
+api-version: '1.21'
+authors: [ Nelmin, SimpleMineCode ]
+description:
+website: https://nexusrise.net/
