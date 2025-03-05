@@ -1,0 +1,60 @@
+## **Modified GNU Affero General Public License v3.0 (AGPL-3.0) with Additional Provisions**  
+
+**Copyright (C) YEAR, AUTHOR**  
+
+### **Introduction**  
+
+This document presents a modified version of the GNU Affero General Public License v3.0 (AGPL-3.0), incorporating additional provisions to address:  
+
+1. **Cloud Service Providers**: Entities offering this software as a service must disclose substantial modifications, while minor configuration changes are exempt.  
+2. **Attribution and Change Disclosure**: Modifications must credit the original authors and reference the original repository, with visibility requirements based on the extent of modification.  
+3. **Fair Use of the NAME**: The original NAME should not be used in a misleading manner but may be referenced appropriately.  
+
+By using this software, you agree to comply with the AGPL-3.0, including the modifications specified below.  
+
+---
+
+### **Modified License Terms**  
+
+#### **1. Cloud Service Provider Obligations**  
+
+Entities deploying this software or its modified versions as a publicly accessible service must:  
+
+- **Disclose substantial modifications**, including providing access to the modified source code under the same license. Minor configuration adjustments (e.g., changing API keys, environment variables, or UI colors) are exempt.  
+- **Ensure compliance among downstream users** who modify or deploy the software as a service.  
+- **Definition of a Cloud Service Provider**: Any entity offering this software as a service, directly to end users or via an API, falls under these conditions.  
+
+Failure to comply will result in a formal notice. The licensee will have **DAYS to resolve the issue in good faith** before further action is considered.  
+
+---
+
+#### **2. Attribution and Change Disclosure**  
+
+- If a modified version of this software is deployed, attribution must be included in an API response header or API documentation, clearly stating:  
+  *"This service is based on NAME by AUTHOR."*  
+- If the project undergoes **significant modifications**, acknowledgment in the repository or project documentation is required.  
+- **Significant modifications** are defined as changes that meet at least one of the following criteria:  
+  - **More than PERCENT of functional code lines** (excluding comments and whitespace) are changed, added, or removed.  
+  - **At least PERCENT of the core modules or key components** are redesigned, replaced, or removed.  
+  - **A fundamental feature or function of the software** is added, removed, or substantially altered in a way that changes the primary purpose of the software.  
+
+  **Excluded from significant modifications:**  
+  - Moving to a different programming language while maintaining the same functionality.  
+  - Performance optimizations that do not alter software behavior.  
+  - Minor user interface and user experience changes that do not impact the core workflow.  
+  - Code refactoring that does not introduce or remove significant features.  
+
+---
+
+#### **3. Fair Use of the NAME**  
+
+- The original NAME may be used in forks and modifications, provided it is not used in a misleading way that suggests official endorsement if no such endorsement exists.  
+- Clear differentiation from the original project is encouraged when forking or modifying the software.  
+- No restrictions are imposed on hosting, usage, or modifications beyond those outlined in the AGPL-3.0 and the other terms of this license.  
+
+---
+
+### **Unmodified AGPL Terms**  
+
+Except as modified herein, the terms and conditions of the **GNU Affero General Public License v3.0 (AGPL-3.0)** remain fully applicable. The complete AGPL-3.0 text is available at:  
+[https://www.gnu.org/licenses/agpl-3.0.en.html](https://www.gnu.org/licenses/agpl-3.0.en.html)
