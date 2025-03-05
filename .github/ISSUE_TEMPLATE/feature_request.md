@@ -50,7 +50,7 @@ _Please complete:_
 
 ### ✅ **Checklist for Contributors**  
 _If you’re submitting code:_  
-- [ ] I’ve read the [CONTRIBUTING.md](LINK_HERE).  
+- [ ] I’ve read the [CONTRIBUTING.md](https://github.com/NelminDev/Rahmenwerk/blob/master/CODE_OF_CONDUCT.md).  
 - [ ] I’ll add tests for this feature.  
 - [ ] I’ll update the Wiki/API docs.  
 
