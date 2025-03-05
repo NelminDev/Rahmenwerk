@@ -3,5 +3,5 @@ version: ${project.version}
 main: dev.nelmin.minecraft.Rahmenwerk
 api-version: '1.21'
 authors: [ Nelmin, SimpleMineCode ]
-description:
+description: \"Rahmenwerk\" is a PaperMC Plugin framework, which aims to be as modular as possible.
 website: https://nexusrise.net/
